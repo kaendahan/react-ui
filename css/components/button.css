@@ -1,0 +1,7 @@
+.bth {
+  @apply inline-flex gap-x-2;
+}
+
+.btn-full {
+  @apply w-full;
+}
